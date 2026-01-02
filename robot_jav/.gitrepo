@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:jonyuan/puzzles-private.git
+	branch = main
+	commit = 580b9984ecc8ad57321c2bd8ce1412c536ab84ec
+	parent = cee34c681df97efa98d051ae6cd9dff2567b4961
+	method = merge
+	cmdver = 0.4.9
