@@ -2,6 +2,8 @@
 
 A simple collection of puzzles and solutions for fun.
 
+Corrections and discussions to any potential errors are very welcome!
+
 > This repo is mirrored from a private repo, such that any unreleased puzzles are not pushed publicly until the acceptable release date.
 
 We use `git-subrepo` for subtree management.
