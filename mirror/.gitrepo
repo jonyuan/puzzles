@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:jonyuan/puzzles-private.git
 	branch = main
-	commit = 580b9984ecc8ad57321c2bd8ce1412c536ab84ec
-	parent = 1f6a0fe9aa01e55cf6207e1d069dbfd8e9d5566e
+	commit = cb41936157dc1425d4f08273355bf402e8a16c95
+	parent = 572f46c6fefe56d72841fae58023575804e60a35
 	method = merge
 	cmdver = 0.4.9

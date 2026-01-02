@@ -6,7 +6,7 @@ We use `git-subrepo` for subtree management: mirroring each puzzle into the publ
 
 ```bash
 cd ../puzzles_public_mirror
-git subrepo clone git@github.com:jonyuan/puzzles-private.git [PUZZLE]
+git subrepo clone git@github.com:jonyuan/puzzles-private.git mirror
 git push
 ```
 
@@ -14,5 +14,5 @@ If changes are made later:
 
 ```bash
 cd ../puzzles_public_mirror
-git subrepo pull [PUZZLE]
+git subrepo pull mirror
 ```
